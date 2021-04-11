@@ -14,5 +14,5 @@
 
 ```
 
-![maybe_just_nothing](\images\maybe_just_nothing.png)
+![maybe_just_nothing](https://github.com/KingBendico/Functional_Programming_Assignments/blob/master/images/maybe_just_nothing.png)
 
