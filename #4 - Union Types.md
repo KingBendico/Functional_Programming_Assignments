@@ -14,5 +14,4 @@
 
 ```
 
-### ![image-20210411114129486](C:\Users\benja\AppData\Roaming\Typora\typora-user-images\image-20210411114129486.png)
-
+![maybe_just_nothing](E:\OneDrive\Documents\Copenhagen Business Academy\Datamatiker\4. semester\Functional Programming\Topic Pixi\images\maybe_just_nothing.png)
