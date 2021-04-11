@@ -14,4 +14,5 @@
 
 ```
 
-![maybe_just_nothing](E:\OneDrive\Documents\Copenhagen Business Academy\Datamatiker\4. semester\Functional Programming\Topic Pixi\images\maybe_just_nothing.png)
+![maybe_just_nothing](\images\maybe_just_nothing.png)
+
